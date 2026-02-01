@@ -99,11 +99,14 @@ I focus on performance, security, and maintainable system design while deliverin
 * **B.E. in Electronics & Communication Engineering** – Anna University
 
 ---
-
 ## 🏆 Certifications
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+     alt="AWS Certified Solutions Architect – Associate"
+     width="120" />
+<img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png"
+     alt="AWS Certified Data Engineer – Associate"
+     width="120" />
 
-* 🟢 ![AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f42ceef1-91b4-4af3-acda-124766242d70)
-* 🟢 ![AWS Certified Data Engineer – Associate] (https://www.credly.com/badges/e5ba4d04-1c03-4083-b302-9a333f105dc4)
 
 ---
 
