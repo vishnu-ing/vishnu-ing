@@ -94,7 +94,7 @@ I architected and developed a **single shared codebase** using **React, Ionic, C
 
 ## 🏢 Professional Experience
 
-**Full Stack Developer — Find Me LLC (Aug 2025 – Present)**
+**Full Stack Developer — Find Me LLC (Aug 2025 – Nov 2025)**
 
 * Built scalable features using React, Next.js, Node.js, and MongoDB
 * Designed REST APIs following microservices principles
