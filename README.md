@@ -3,8 +3,6 @@
 
 **Full Stack Developer | Microservices Engineer | AWS Certified Solutions Architect & Data Engineer**
 
-![GitHub Stars](https://img.shields.io/github/stars/vishnu-ing?label=Stars)
-
 ---
 
 ## 🚀 About Me
@@ -63,6 +61,25 @@ I focus on performance, security, and maintainable system design while deliverin
 
 ---
 
+## 🌐 Production Multi-Brand Platform
+
+I architected and developed a **single shared codebase** using **React, Ionic, Capacitor, and TypeScript** to power responsive web apps and separate Android/iOS mobile apps for user management, appointment booking, loyalty programs, kiosks, and online coupons across these brands:
+
+- [Supercuts](https://www.supercuts.com/)
+- [Cost Cutters](https://www.costcutters.com/)
+- [SmartStyle](https://www.smartstyle.com/)
+- [Roosters Men’s Grooming Center](https://www.roostersmgc.com/)
+- [First Choice Haircutters](https://www.firstchoice.com/)
+- [First Choice Haircutters – France](https://fr.firstchoice.com/)
+- [Magicuts](https://www.magicutssalons.com/)
+- [Holiday Hair](https://www.holidayhair.com/)
+- [HairMasters](https://www.hairmasterssalons.com/)
+- [Pro-Cuts](https://www.pro-cuts.com/)
+
+> One **codebase**, three **platforms** (Web, Android, iOS), nine **brands**, eighteen **production** applications.
+
+---
+
 ## 📌 Projects & Contributions
 
 * Built a **hybrid multi-brand platform (9 brands)** serving Web, Android, and iOS from a single shared codebase
@@ -113,9 +130,3 @@ I focus on performance, security, and maintainable system design while deliverin
 ## 📫 Contact Me
 
 * 📧 Email: **[vishnu.rsvk@gmail.com](mailto:vishnu.rsvk@gmail.com)**
-
----
-
-## ⚡ Fun Fact
-
-One codebase. Three platforms. Nine Brands. Eighteen Applications.
