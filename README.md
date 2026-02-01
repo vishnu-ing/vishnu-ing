@@ -3,8 +3,6 @@
 
 **Full Stack Developer | Microservices Engineer | AWS Certified Solutions Architect & Data Engineer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishnu-ing\&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/vishnu-ing?label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/vishnu-ing?label=Stars)
 
 ---
@@ -104,31 +102,14 @@ I focus on performance, security, and maintainable system design while deliverin
 
 ## 🏆 Certifications
 
-* 🟢 AWS Certified Solutions Architect – Associate
-* 🟢 AWS Certified Data Engineer – Associate
-
-🔗 Badges:
-
-* [https://www.credly.com/badges/f42ceef1-91b4-4af3-acda-124766242d70](https://www.credly.com/badges/f42ceef1-91b4-4af3-acda-124766242d70)
-* [https://www.credly.com/badges/e5ba4d04-1c03-4083-b302-9a333f105dc4](https://www.credly.com/badges/e5ba4d04-1c03-4083-b302-9a333f105dc4)
-
----
-
-## 📊 GitHub Stats
-
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnu-ing\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-ing\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vishnu-ing\&theme=tokyonight)
+* 🟢 ![AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f42ceef1-91b4-4af3-acda-124766242d70)
+* 🟢 ![AWS Certified Data Engineer – Associate] (https://www.credly.com/badges/e5ba4d04-1c03-4083-b302-9a333f105dc4)
 
 ---
 
 ## 📫 Contact Me
 
 * 📧 Email: **[vishnu.rsvk@gmail.com](mailto:vishnu.rsvk@gmail.com)**
-* 💼 LinkedIn: [https://www.linkedin.com/in/vishnu-ing](https://www.linkedin.com/in/vishnu-ing)
-* 🌐 GitHub: [https://github.com/vishnu-ing](https://github.com/vishnu-ing)
 
 ---
 
