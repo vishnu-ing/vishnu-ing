@@ -134,18 +134,89 @@ mindmap
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"darkMode":true,"background":"#0F172A","git0":"#10B981","gitBranchLabel0":"#0F172A","primaryColor":"#111827","primaryBorderColor":"#10B981","primaryTextColor":"#E2E8F0","secondaryColor":"#064E3B","secondaryBorderColor":"#34D399","secondaryTextColor":"#ECFDF5","tertiaryColor":"#0B1220","tertiaryBorderColor":"#06B6D4","tertiaryTextColor":"#E2E8F0","mainBkg":"#111827","nodeBorder":"#10B981","clusterBkg":"#0B1220","clusterBorder":"#1E293B","lineColor":"#06B6D4","textColor":"#A7F3D0","edgeLabelBackground":"#0F172A","actorBkg":"#111827","actorBorder":"#10B981","actorTextColor":"#E2E8F0","actorLineColor":"#334155","signalColor":"#06B6D4","signalTextColor":"#A7F3D0","labelBoxBkgColor":"#111827","labelBoxBorderColor":"#10B981","labelTextColor":"#E2E8F0","loopTextColor":"#A7F3D0","noteBkgColor":"#064E3B","noteBorderColor":"#34D399","noteTextColor":"#ECFDF5","activationBkgColor":"#047857","activationBorderColor":"#34D399","sequenceNumberColor":"#0F172A","cScale0":"#064E3B","cScaleLabel0":"#ECFDF5","cScalePeer0":"#34D399","cScale1":"#0E7490","cScaleLabel1":"#ECFDF5","cScalePeer1":"#34D399","cScale2":"#047857","cScaleLabel2":"#ECFDF5","cScalePeer2":"#34D399","cScale3":"#155E75","cScaleLabel3":"#ECFDF5","cScalePeer3":"#34D399","cScale4":"#065F46","cScaleLabel4":"#ECFDF5","cScalePeer4":"#34D399","cScale5":"#0369A1","cScaleLabel5":"#ECFDF5","cScalePeer5":"#34D399","cScale6":"#064E3B","cScaleLabel6":"#ECFDF5","cScalePeer6":"#34D399","cScale7":"#0E7490","cScaleLabel7":"#ECFDF5","cScalePeer7":"#34D399","cScale8":"#047857","cScaleLabel8":"#ECFDF5","cScalePeer8":"#34D399","cScale9":"#155E75","cScaleLabel9":"#ECFDF5","cScalePeer9":"#34D399","cScale10":"#065F46","cScaleLabel10":"#ECFDF5","cScalePeer10":"#34D399","cScale11":"#0369A1","cScaleLabel11":"#ECFDF5","cScalePeer11":"#34D399"}}}%%
 timeline
-    2019 : B.E. Electronics & Communication · Anna University : Ideas2IT — Software Engineer
-    2021 : Java REST APIs · microservices : up to 60% faster client responses
-    2022 : Senior Software Engineer : 15 repos → 1 multi-brand PWA
+    2019 : B.E. Electronics & Communication · Anna University : Ideas2IT — Senior Software Engineer
     2023 : AWS Solutions Architect – Associate
-    2025 : MS MIS · University at Buffalo · GPA 4.0 : AWS Data Engineer – Associate : Find Me LLC — Full Stack Developer
+    Jan 2025 : Rupp Pfalzgraf — Full Stack Developer
+    2025 : MS MIS · University at Buffalo · GPA 4.0 : AWS Data Engineer – Associate
+    Aug 2025 : Find Me LLC — Full Stack Developer
+    Nov 2025 : First Citizens Bank via BeaconFire — Full Stack Developer · present
 ```
 
 | Period | Company | Role | Key impact |
 |:--|:--|:--|:--|
-| **Aug 2025 — Nov 2025** | Find Me LLC | Full Stack Developer | React · Next.js · Node.js · MongoDB features · microservice-style REST APIs · faster auth and SSR |
-| **Jul 2022 — May 2024** | Ideas2IT Technology Services | Senior Software Engineer | 15 repos → 1 PWA · 9 brands on web, Android & iOS · 70% easier maintenance · 50% faster deploys · led a team of 4 |
-| **2019 — Jul 2022** | Ideas2IT Technology Services | Software Engineer | Java REST APIs · up to 60% faster client responses · microservices with automated CI/CD |
+| **Nov 2025 — now** | First Citizens Bank · via BeaconFire | Full Stack Developer | 10+ app pages migrated off legacy SVB branding · SSO & identity hardening · 18 story points vs 10 planned · JWT + OAuth 2.0 |
+| **Aug 2025 — Nov 2025** | Find Me LLC | Full Stack Developer | Next.js · Node.js · MongoDB features · Redux Toolkit state · HTTP-only cookie auth · SSR & SEO performance |
+| **Jan 2025 — Jun 2025** | Rupp Pfalzgraf | Full Stack Developer | Angular KPI dashboard for C-suite · digitized performance reviews · RxJS + REST APIs |
+| **Jun 2019 — May 2024** | Ideas2IT Technology Services | Senior Software Engineer | One codebase → 9 brands on web, Android & iOS · CircleCI CI/CD · Outstanding Performance award, 2 years running |
+
+<details>
+<summary><b>Full Stack Developer · First Citizens Bank through BeaconFire</b> &nbsp;—&nbsp; Nov 2025 – present</summary>
+
+<br>
+
+- Modernized more than 10 application pages and shared UI components using React, TypeScript, Node.js and MongoDB to replace legacy SVB branding with the First Citizens experience and support scheduled releases for product and engineering stakeholders.
+- Strengthened identity-related repositories and SSO workflows by coordinating security findings, authentication issues and cross-team production dependencies to improve release stability for application, security and platform teams.
+- Resolved requirements and product-discovery gaps involving legacy URLs, content changes and component ownership to reduce late-stage ambiguity and improve release readiness across engineering and product teams.
+- Delivered approximately 18 story points in a two-week sprint against a planned capacity of 10 by managing competing priorities and cross-team dependencies to meet release and code-freeze commitments.
+- Integrated Java and Spring Boot backend services with React-based frontend workflows to support enterprise application functionality and maintain clear separation between presentation, business and integration layers.
+- Secured authentication flows with JWT-based access tokens and OAuth 2.0 authorization patterns to protect API resources, standardize session handling and support enterprise identity requirements.
+- Improved production support by analyzing application logs, monitoring signals and incident patterns to reduce mean time to resolution (MTTR) for authentication and release-related incidents and strengthen operational reliability for application owners.
+- Containerized application workloads with Docker and Kubernetes and supported AWS-based deployment patterns to standardize runtime environments and improve consistency across development and production workflows.
+- Applied approved AI-assisted development tools such as GitHub Copilot to support code exploration, documentation and development productivity while keeping engineering workflows aligned with enterprise development practices.
+
+<sub>`React` `TypeScript` `Node.js` `MongoDB` `Java` `Spring Boot` `JWT` `OAuth 2.0` `SSO` `Docker` `Kubernetes` `AWS` `GitHub Copilot`</sub>
+
+</details>
+
+<details>
+<summary><b>Full Stack Developer · Find Me LLC</b> &nbsp;—&nbsp; Aug 2025 – Nov 2025</summary>
+
+<br>
+
+- Engineered full-stack features with Next.js, React, TypeScript, Node.js, Express and MongoDB to support application workflows through reusable frontend components and REST-based backend services.
+- Reworked client and server state management with Redux Toolkit to provide predictable data flows across Next.js and React applications and simplify application behavior for development teams.
+- Hardened authentication by implementing HTTP-only cookies and token refresh workflows with Next.js SSR to improve session security and application performance.
+- Optimized application delivery through server-side rendering, static generation, lazy loading and structured sitemaps to improve initial page performance and strengthen SEO-oriented user experiences.
+- Built responsive mobile-first interfaces with reusable carousels, tabs, modals and dynamic forms to create consistent user experiences across application workflows.
+- Secured API communication with JWT-based authentication and Axios interceptors to manage authorization headers consistently across protected requests.
+
+<sub>`Next.js` `React` `TypeScript` `Node.js` `Express` `MongoDB` `Redux Toolkit` `JWT` `Axios` `SSR`</sub>
+
+</details>
+
+<details>
+<summary><b>Full Stack Developer · Rupp Pfalzgraf</b> &nbsp;—&nbsp; Jan 2025 – Jun 2025</summary>
+
+<br>
+
+- Developed an Angular and TypeScript performance dashboard around 4 core KPIs including Revenue per Customer, Total Compensation, Billable Hours and Realization Rate to provide C-suite leadership with a centralized view of business performance.
+- Digitized performance review workflows using Angular Material, RxJS and REST APIs to replace fragmented manual processes with centralized dashboards and simplify review activities for managers and administrative stakeholders.
+- Structured reusable Angular components and RxJS data flows to standardize API-driven updates and improve frontend maintainability across reporting and performance-management workflows.
+- Integrated RESTful backend services with Angular dashboards to support consistent retrieval and presentation of business data for leadership reporting and internal application workflows.
+- Refined responsive interfaces using TypeScript, JavaScript, HTML5 and CSS3 to improve navigation and usability across professional-services applications while maintaining reusable frontend patterns.
+- Validated frontend and API integrations with Postman, Git-based development and defect analysis to identify integration issues earlier and improve release readiness for business stakeholders.
+- Coordinated requirements, code reviews and Agile delivery activities with product and development teams to align dashboard enhancements with stakeholder expectations throughout the engagement.
+
+<sub>`Angular` `TypeScript` `Angular Material` `RxJS` `REST APIs` `HTML5` `CSS3` `Postman` `Agile`</sub>
+
+</details>
+
+<details>
+<summary><b>Senior Software Engineer · Ideas2IT Technology Services</b> &nbsp;—&nbsp; Jun 2019 – May 2024</summary>
+
+<br>
+
+- Engineered a hybrid multi-brand application platform using Node.js, Express, MongoDB, React, TypeScript and Ionic to deliver web, Android and iOS applications from a shared codebase for 9 brands, reducing duplicated implementation across product teams.
+- Centralized dynamic theming, content, assets and API integrations through React Context API and Redux Toolkit to create reusable application patterns and support consistent promotions and feature rollouts across 9 brands.
+- Designed reusable Node.js and Express REST services to separate business logic from client applications and establish consistent API contracts for customer-facing features and third-party integrations.
+- Automated development and production deployments through CircleCI and CI/CD pipelines to standardize release execution, reduce manual deployment effort and improve delivery reliability across application environments.
+- Integrated geolocation, latitude/longitude-based search and service discovery workflows across 3 application platforms to support location-aware customer journeys and reusable search capabilities.
+- Implemented appointment push notifications and coupons/rewards workflows to connect customer interactions with transactional services and engagement features while maintaining reusable business logic across supported brands.
+- Earned an Outstanding Performance for Contribution to the Organization award for 2 consecutive years through consistent delivery of cross-platform engineering initiatives and product enhancements.
+
+<sub>`React` `TypeScript` `Ionic` `Node.js` `Express` `MongoDB` `Redux Toolkit` `Context API` `CircleCI` `CI/CD`</sub>
+
+</details>
 
 ---
 
