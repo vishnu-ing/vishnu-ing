@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:064E3B&height=180&section=header&text=VISHNU%20KUMAR&fontSize=52&fontColor=A7F3D0&fontAlignY=48&fontAlign=25&desc=full%20stack%20%E2%80%A2%20microservices%20%E2%80%A2%20aws&descSize=16&descAlignY=72&descAlign=25" width="100%" alt="VISHNU KUMAR — full stack · microservices · aws">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:064E3B&height=180&section=header&text=VISHNU%20KUMAR&fontSize=52&fontColor=A7F3D0&fontAlignY=48&fontAlign=25&desc=full%20stack%20%E2%80%A2%20AI%2FGenAI%20%E2%80%A2%20microservices%20%E2%80%A2%20AWS&descSize=16&descAlignY=72&descAlign=25" width="100%" alt="VISHNU KUMAR — full stack · AI/GenAI · microservices · AWS">
 
 ```bash
 $ whoami
@@ -6,12 +6,13 @@ $ whoami
 
 ```yaml
 name:        Vishnu Kumar Ruppa Sridhar
-role:        Full Stack Developer · Microservices Engineer
-focus:       multi-brand web & mobile platforms, Java microservices, cloud
+role:        Full Stack Developer · AI-Powered Applications · Microservices
+focus:       multi-brand web & mobile platforms, Java microservices, GenAI features, cloud
 stack:       React · Ionic · TypeScript  ⇄  Java · Spring Boot · Node.js
+ai:          LLMs · RAG · agents · OpenAI · Claude · LangChain · LangGraph
 shipped:     one codebase → 9 brands → web, Android & iOS
 education:   MS Management Information Systems @ University at Buffalo (GPA 4.0)
-credentials: AWS Solutions Architect – Associate · AWS Data Engineer – Associate
+credentials: AWS Data Engineer – Associate · AWS Solutions Architect – Associate (expired)
 reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-ruppa-sridhar
 ```
 
@@ -27,25 +28,32 @@ reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-ruppa-sridhar
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 **Multi-Brand Platforms**
 
 <sub>One React + Ionic + Capacitor codebase that themes itself per brand and ships to web, Android and iOS.</sub>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
 
 **Java Microservices**
 
 <sub>Spring Boot and Hibernate services for authentication, workflows and integrations, behind clean REST APIs.</sub>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="25%" valign="top" align="center">
+
+**AI-Powered Features**
+
+<sub>LLM agents, RAG and tool calling built into full-stack apps with OpenAI, Claude, LangChain and LangGraph.</sub>
+
+</td>
+<td width="25%" valign="top" align="center">
 
 **Cloud & Data on AWS**
 
-<sub>Containerized services, CI/CD and warehouse pipelines, designed with two AWS Associate certifications behind them.</sub>
+<sub>Containerized services, CI/CD and warehouse pipelines, backed by an AWS Data Engineer certification.</sub>
 
 </td>
 </tr>
@@ -105,6 +113,13 @@ mindmap
       Node.js
       Express
       REST APIs
+    AI & GenAI
+      LLMs · RAG
+      Agentic AI
+      OpenAI · Claude
+      LangChain · LangGraph
+      Prompt Engineering
+      GitHub Copilot
     Data
       MySQL
       MongoDB
@@ -155,6 +170,7 @@ timeline
 <br>
 
 - Modernized more than 10 application pages and shared UI components using React, TypeScript, Node.js and MongoDB to replace legacy SVB branding with the First Citizens experience and support scheduled releases for product and engineering stakeholders.
+- Applied approved AI-assisted development tools such as GitHub Copilot to support code exploration, documentation and development productivity while keeping engineering workflows aligned with enterprise development practices.
 - Strengthened identity-related repositories and SSO workflows by coordinating security findings, authentication issues and cross-team production dependencies to improve release stability for application, security and platform teams.
 - Resolved requirements and product-discovery gaps involving legacy URLs, content changes and component ownership to reduce late-stage ambiguity and improve release readiness across engineering and product teams.
 - Delivered approximately 18 story points in a two-week sprint against a planned capacity of 10 by managing competing priorities and cross-team dependencies to meet release and code-freeze commitments.
@@ -162,7 +178,6 @@ timeline
 - Secured authentication flows with JWT-based access tokens and OAuth 2.0 authorization patterns to protect API resources, standardize session handling and support enterprise identity requirements.
 - Improved production support by analyzing application logs, monitoring signals and incident patterns to reduce mean time to resolution (MTTR) for authentication and release-related incidents and strengthen operational reliability for application owners.
 - Containerized application workloads with Docker and Kubernetes and supported AWS-based deployment patterns to standardize runtime environments and improve consistency across development and production workflows.
-- Applied approved AI-assisted development tools such as GitHub Copilot to support code exploration, documentation and development productivity while keeping engineering workflows aligned with enterprise development practices.
 
 <sub>`React` `TypeScript` `Node.js` `MongoDB` `Java` `Spring Boot` `JWT` `OAuth 2.0` `SSO` `Docker` `Kubernetes` `AWS` `GitHub Copilot`</sub>
 
@@ -223,6 +238,29 @@ timeline
 ### ❯ Featured engineering projects
 
 <details open>
+<summary><b>Agentic AI</b> &nbsp;—&nbsp; tool-using Q&amp;A agent on Llama 3.2</summary>
+
+<br>
+
+AI-powered Q&A agent built with Python and Streamlit. A ReAct agent on **Llama 3.2** decides when to call tools, using a math **FunctionTool** for real-time calculations and the **DuckDuckGo API** for live web search, then composes the answer.
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"darkMode":true,"background":"#0F172A","git0":"#10B981","gitBranchLabel0":"#0F172A","primaryColor":"#111827","primaryBorderColor":"#10B981","primaryTextColor":"#E2E8F0","secondaryColor":"#064E3B","secondaryBorderColor":"#34D399","secondaryTextColor":"#ECFDF5","tertiaryColor":"#0B1220","tertiaryBorderColor":"#06B6D4","tertiaryTextColor":"#E2E8F0","mainBkg":"#111827","nodeBorder":"#10B981","clusterBkg":"#0B1220","clusterBorder":"#1E293B","lineColor":"#06B6D4","textColor":"#A7F3D0","edgeLabelBackground":"#0F172A","actorBkg":"#111827","actorBorder":"#10B981","actorTextColor":"#E2E8F0","actorLineColor":"#334155","signalColor":"#06B6D4","signalTextColor":"#A7F3D0","labelBoxBkgColor":"#111827","labelBoxBorderColor":"#10B981","labelTextColor":"#E2E8F0","loopTextColor":"#A7F3D0","noteBkgColor":"#064E3B","noteBorderColor":"#34D399","noteTextColor":"#ECFDF5","activationBkgColor":"#047857","activationBorderColor":"#34D399","sequenceNumberColor":"#0F172A","cScale0":"#064E3B","cScaleLabel0":"#ECFDF5","cScalePeer0":"#34D399","cScale1":"#0E7490","cScaleLabel1":"#ECFDF5","cScalePeer1":"#34D399","cScale2":"#047857","cScaleLabel2":"#ECFDF5","cScalePeer2":"#34D399","cScale3":"#155E75","cScaleLabel3":"#ECFDF5","cScalePeer3":"#34D399","cScale4":"#065F46","cScaleLabel4":"#ECFDF5","cScalePeer4":"#34D399","cScale5":"#0369A1","cScaleLabel5":"#ECFDF5","cScalePeer5":"#34D399","cScale6":"#064E3B","cScaleLabel6":"#ECFDF5","cScalePeer6":"#34D399","cScale7":"#0E7490","cScaleLabel7":"#ECFDF5","cScalePeer7":"#34D399","cScale8":"#047857","cScaleLabel8":"#ECFDF5","cScalePeer8":"#34D399","cScale9":"#155E75","cScaleLabel9":"#ECFDF5","cScalePeer9":"#34D399","cScale10":"#065F46","cScaleLabel10":"#ECFDF5","cScalePeer10":"#34D399","cScale11":"#0369A1","cScaleLabel11":"#ECFDF5","cScalePeer11":"#34D399"}}}%%
+flowchart LR
+    Q["User question<br>Streamlit"] --> R["ReAct agent<br>Llama 3.2"]
+    R -->|reason| R
+    R --> M["FunctionTool<br>math"]
+    R --> W["DuckDuckGo<br>web search"]
+    M & W --> A["Grounded answer"]
+    style R fill:#064E3B,stroke:#34D399,color:#ECFDF5
+    style A fill:#164E63,stroke:#06B6D4,color:#ECFDF5
+```
+
+<sub>`Python` `Streamlit` `Llama 3.2` `ReActAgent` `FunctionTool` `DuckDuckGo API`</sub>
+
+</details>
+
+<details>
 <summary><b>E-Commerce Microservices Platform</b> — distributed commerce backend with cloud-native architecture</summary>
 <br>
 
@@ -427,7 +465,8 @@ flowchart LR
 ```text
 → event-driven services on AWS (Lambda · EventBridge · SQS)
 → cloud data warehousing with Snowflake alongside app backends
-→ LLM features inside everyday product workflows
+→ agentic workflows with LangGraph and tool-calling LLMs
+→ RAG over product and operational data
 ```
 
 ---
