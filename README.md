@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:064E3B&height=180&section=header&text=VISHNU%20KUMAR&fontSize=52&fontColor=A7F3D0&fontAlignY=48&fontAlign=25&desc=full%20stack%20%E2%80%A2%20AI%2FGenAI%20%E2%80%A2%20microservices%20%E2%80%A2%20AWS&descSize=16&descAlignY=72&descAlign=25" width="100%" alt="VISHNU KUMAR — full stack · AI/GenAI · microservices · AWS">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:064E3B&height=180&section=header&text=VISHNU%20KUMAR&fontSize=52&fontColor=A7F3D0&fontAlignY=48&fontAlign=25&desc=AI%20software%20engineer%20%E2%80%A2%20LLM%20apps%20%E2%80%A2%20full%20stack%20%E2%80%A2%20AWS&descSize=16&descAlignY=72&descAlign=25" width="100%" alt="VISHNU KUMAR — AI software engineer · LLM apps · full stack · AWS">
 
 ```bash
 $ whoami
@@ -6,19 +6,20 @@ $ whoami
 
 ```yaml
 name:        Vishnu Kumar Ruppa Sridhar
-role:        Full Stack Developer · AI-Powered Applications · Microservices
-focus:       multi-brand web & mobile platforms, Java microservices, GenAI features, cloud
-stack:       React · Ionic · TypeScript  ⇄  Java · Spring Boot · Node.js
-ai:          LLMs · RAG · agents · OpenAI · Claude · LangChain · LangGraph
+role:        AI Software Engineer · building LLM-powered products
+focus:       agents · RAG · tool calling, plus the production plumbing around them
+ai:          OpenAI · Claude · Llama · LangChain · LangGraph · prompt engineering
+background:  6+ yrs full stack · React · Angular · Node.js · Java/Spring Boot · AWS
 shipped:     one codebase → 9 brands → web, Android & iOS
 education:   MS Management Information Systems @ University at Buffalo (GPA 4.0)
 credentials: AWS Data Engineer – Associate · AWS Solutions Architect – Associate (expired)
-reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-ruppa-sridhar
+reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-rs · vishnukumar.me
 ```
 
 <p>
   <a href="https://github.com/vishnu-ing"><img src="https://img.shields.io/badge/github-vishnu--ing-0F172A?style=flat-square&logo=github&logoColor=10B981" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/vishnu-kumar-ruppa-sridhar/"><img src="https://img.shields.io/badge/linkedin-vishnu--kumar--ruppa--sridhar-0F172A?style=flat-square&logo=linkedin&logoColor=10B981" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vishnu-kumar-rs/"><img src="https://img.shields.io/badge/linkedin-vishnu--kumar--rs-0F172A?style=flat-square&logo=linkedin&logoColor=10B981" alt="LinkedIn"></a>
+  <a href="https://vishnukumar.me/"><img src="https://img.shields.io/badge/web-vishnukumar.me-0F172A?style=flat-square&logo=googlechrome&logoColor=10B981" alt="Portfolio"></a>
   <a href="mailto:vishnu.rsvk@gmail.com"><img src="https://img.shields.io/badge/mail-vishnu.rsvk@gmail.com-0F172A?style=flat-square&logo=maildotru&logoColor=10B981" alt="Email"></a>
 </p>
 
@@ -28,6 +29,13 @@ reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-ruppa-sridhar
 
 <table>
 <tr>
+<td width="25%" valign="top" align="center">
+
+**LLM-Powered Features**
+
+<sub>LLM agents, RAG and tool calling built into full-stack apps with OpenAI, Claude, LangChain and LangGraph.</sub>
+
+</td>
 <td width="25%" valign="top" align="center">
 
 **Multi-Brand Platforms**
@@ -44,13 +52,6 @@ reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-ruppa-sridhar
 </td>
 <td width="25%" valign="top" align="center">
 
-**AI-Powered Features**
-
-<sub>LLM agents, RAG and tool calling built into full-stack apps with OpenAI, Claude, LangChain and LangGraph.</sub>
-
-</td>
-<td width="25%" valign="top" align="center">
-
 **Cloud & Data on AWS**
 
 <sub>Containerized services, CI/CD and warehouse pipelines, backed by an AWS Data Engineer certification.</sub>
@@ -61,7 +62,31 @@ reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-ruppa-sridhar
 
 ---
 
-### &nbsp;❯&nbsp; How a request flows through my platforms
+### &nbsp;❯&nbsp; How I ship an LLM feature
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"darkMode":true,"background":"#0F172A","git0":"#10B981","gitBranchLabel0":"#0F172A","primaryColor":"#111827","primaryBorderColor":"#10B981","primaryTextColor":"#E2E8F0","secondaryColor":"#064E3B","secondaryBorderColor":"#34D399","secondaryTextColor":"#ECFDF5","tertiaryColor":"#0B1220","tertiaryBorderColor":"#06B6D4","tertiaryTextColor":"#E2E8F0","mainBkg":"#111827","nodeBorder":"#10B981","clusterBkg":"#0B1220","clusterBorder":"#1E293B","lineColor":"#06B6D4","textColor":"#A7F3D0","edgeLabelBackground":"#0F172A","actorBkg":"#111827","actorBorder":"#10B981","actorTextColor":"#E2E8F0","actorLineColor":"#334155","signalColor":"#06B6D4","signalTextColor":"#A7F3D0","labelBoxBkgColor":"#111827","labelBoxBorderColor":"#10B981","labelTextColor":"#E2E8F0","loopTextColor":"#A7F3D0","noteBkgColor":"#064E3B","noteBorderColor":"#34D399","noteTextColor":"#ECFDF5","activationBkgColor":"#047857","activationBorderColor":"#34D399","sequenceNumberColor":"#0F172A","cScale0":"#064E3B","cScaleLabel0":"#ECFDF5","cScalePeer0":"#34D399","cScale1":"#0E7490","cScaleLabel1":"#ECFDF5","cScalePeer1":"#34D399","cScale2":"#047857","cScaleLabel2":"#ECFDF5","cScalePeer2":"#34D399","cScale3":"#155E75","cScaleLabel3":"#ECFDF5","cScalePeer3":"#34D399","cScale4":"#065F46","cScaleLabel4":"#ECFDF5","cScalePeer4":"#34D399","cScale5":"#0369A1","cScaleLabel5":"#ECFDF5","cScalePeer5":"#34D399","cScale6":"#064E3B","cScaleLabel6":"#ECFDF5","cScalePeer6":"#34D399","cScale7":"#0E7490","cScaleLabel7":"#ECFDF5","cScalePeer7":"#34D399","cScale8":"#047857","cScaleLabel8":"#ECFDF5","cScalePeer8":"#34D399","cScale9":"#155E75","cScaleLabel9":"#ECFDF5","cScalePeer9":"#34D399","cScale10":"#065F46","cScaleLabel10":"#ECFDF5","cScalePeer10":"#34D399","cScale11":"#0369A1","cScaleLabel11":"#ECFDF5","cScalePeer11":"#34D399"}}}%%
+sequenceDiagram
+    autonumber
+    participant U as User · React / Next.js
+    participant A as API · Node.js / Spring Boot
+    participant O as Agent · LangGraph
+    participant R as Retrieval · vector store
+    participant M as LLM · OpenAI / Claude / Llama
+    U->>A: request · authenticated, rate-limited
+    A->>O: task + user context
+    O->>R: fetch grounding documents
+    R-->>O: top-k chunks
+    O->>M: prompt + context + tool schema
+    M-->>O: answer or tool call
+    O-->>A: validated, structured result
+    A-->>U: streamed response
+    Note over A,M: timeouts · fallbacks · logging and evals on every call
+```
+
+---
+
+### &nbsp;❯&nbsp; The full-stack foundation: how a request flows through my platforms
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"darkMode":true,"background":"#0F172A","git0":"#10B981","gitBranchLabel0":"#0F172A","primaryColor":"#111827","primaryBorderColor":"#10B981","primaryTextColor":"#E2E8F0","secondaryColor":"#064E3B","secondaryBorderColor":"#34D399","secondaryTextColor":"#ECFDF5","tertiaryColor":"#0B1220","tertiaryBorderColor":"#06B6D4","tertiaryTextColor":"#E2E8F0","mainBkg":"#111827","nodeBorder":"#10B981","clusterBkg":"#0B1220","clusterBorder":"#1E293B","lineColor":"#06B6D4","textColor":"#A7F3D0","edgeLabelBackground":"#0F172A","actorBkg":"#111827","actorBorder":"#10B981","actorTextColor":"#E2E8F0","actorLineColor":"#334155","signalColor":"#06B6D4","signalTextColor":"#A7F3D0","labelBoxBkgColor":"#111827","labelBoxBorderColor":"#10B981","labelTextColor":"#E2E8F0","loopTextColor":"#A7F3D0","noteBkgColor":"#064E3B","noteBorderColor":"#34D399","noteTextColor":"#ECFDF5","activationBkgColor":"#047857","activationBorderColor":"#34D399","sequenceNumberColor":"#0F172A","cScale0":"#064E3B","cScaleLabel0":"#ECFDF5","cScalePeer0":"#34D399","cScale1":"#0E7490","cScaleLabel1":"#ECFDF5","cScalePeer1":"#34D399","cScale2":"#047857","cScaleLabel2":"#ECFDF5","cScalePeer2":"#34D399","cScale3":"#155E75","cScaleLabel3":"#ECFDF5","cScalePeer3":"#34D399","cScale4":"#065F46","cScaleLabel4":"#ECFDF5","cScalePeer4":"#34D399","cScale5":"#0369A1","cScaleLabel5":"#ECFDF5","cScalePeer5":"#34D399","cScale6":"#064E3B","cScaleLabel6":"#ECFDF5","cScalePeer6":"#34D399","cScale7":"#0E7490","cScaleLabel7":"#ECFDF5","cScalePeer7":"#34D399","cScale8":"#047857","cScaleLabel8":"#ECFDF5","cScalePeer8":"#34D399","cScale9":"#155E75","cScaleLabel9":"#ECFDF5","cScalePeer9":"#34D399","cScale10":"#065F46","cScaleLabel10":"#ECFDF5","cScalePeer10":"#34D399","cScale11":"#0369A1","cScaleLabel11":"#ECFDF5","cScalePeer11":"#34D399"}}}%%
@@ -85,6 +110,8 @@ sequenceDiagram
 
 ### &nbsp;❯&nbsp; Engineering principles
 
+> **Treat the model as an unreliable dependency.** Ground it with retrieval, validate its output, set timeouts and fallbacks, and measure quality with evals instead of vibes.
+
 > **One codebase, many brands.** Theme, content and features are configuration, not forks. Fifteen repositories became one.
 
 > **Secure by default.** JWT with HTTP-only cookies and token refresh is the baseline for every app, not an extra.
@@ -98,7 +125,14 @@ sequenceDiagram
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"darkMode":true,"background":"#0F172A","git0":"#10B981","gitBranchLabel0":"#0F172A","primaryColor":"#111827","primaryBorderColor":"#10B981","primaryTextColor":"#E2E8F0","secondaryColor":"#064E3B","secondaryBorderColor":"#34D399","secondaryTextColor":"#ECFDF5","tertiaryColor":"#0B1220","tertiaryBorderColor":"#06B6D4","tertiaryTextColor":"#E2E8F0","mainBkg":"#111827","nodeBorder":"#10B981","clusterBkg":"#0B1220","clusterBorder":"#1E293B","lineColor":"#06B6D4","textColor":"#A7F3D0","edgeLabelBackground":"#0F172A","actorBkg":"#111827","actorBorder":"#10B981","actorTextColor":"#E2E8F0","actorLineColor":"#334155","signalColor":"#06B6D4","signalTextColor":"#A7F3D0","labelBoxBkgColor":"#111827","labelBoxBorderColor":"#10B981","labelTextColor":"#E2E8F0","loopTextColor":"#A7F3D0","noteBkgColor":"#064E3B","noteBorderColor":"#34D399","noteTextColor":"#ECFDF5","activationBkgColor":"#047857","activationBorderColor":"#34D399","sequenceNumberColor":"#0F172A","cScale0":"#064E3B","cScaleLabel0":"#ECFDF5","cScalePeer0":"#34D399","cScale1":"#0E7490","cScaleLabel1":"#ECFDF5","cScalePeer1":"#34D399","cScale2":"#047857","cScaleLabel2":"#ECFDF5","cScalePeer2":"#34D399","cScale3":"#155E75","cScaleLabel3":"#ECFDF5","cScalePeer3":"#34D399","cScale4":"#065F46","cScaleLabel4":"#ECFDF5","cScalePeer4":"#34D399","cScale5":"#0369A1","cScaleLabel5":"#ECFDF5","cScalePeer5":"#34D399","cScale6":"#064E3B","cScaleLabel6":"#ECFDF5","cScalePeer6":"#34D399","cScale7":"#0E7490","cScaleLabel7":"#ECFDF5","cScalePeer7":"#34D399","cScale8":"#047857","cScaleLabel8":"#ECFDF5","cScalePeer8":"#34D399","cScale9":"#155E75","cScaleLabel9":"#ECFDF5","cScalePeer9":"#34D399","cScale10":"#065F46","cScaleLabel10":"#ECFDF5","cScalePeer10":"#34D399","cScale11":"#0369A1","cScaleLabel11":"#ECFDF5","cScalePeer11":"#34D399"}}}%%
 mindmap
-  root((Full Stack))
+  root((AI + Full Stack))
+    AI & GenAI
+      LLMs · RAG
+      Agentic AI
+      OpenAI · Claude
+      LangChain · LangGraph
+      Prompt Engineering
+      GitHub Copilot
     Frontend
       React
       Next.js
@@ -113,13 +147,6 @@ mindmap
       Node.js
       Express
       REST APIs
-    AI & GenAI
-      LLMs · RAG
-      Agentic AI
-      OpenAI · Claude
-      LangChain · LangGraph
-      Prompt Engineering
-      GitHub Copilot
     Data
       MySQL
       MongoDB
@@ -155,6 +182,7 @@ timeline
     2025 : MS MIS · University at Buffalo · GPA 4.0 : AWS Data Engineer – Associate
     Aug 2025 : Find Me LLC — Full Stack Developer
     Nov 2025 : First Citizens Bank via BeaconFire — Full Stack Developer · present
+    2026 : Focus → AI Software Engineering : LLM apps · RAG · agents
 ```
 
 | Period | Company | Role | Key impact |
@@ -476,10 +504,10 @@ flowchart LR
 ```bash
 $ reach me
 → email     vishnu.rsvk@gmail.com
-→ linkedin  linkedin.com/in/vishnu-kumar-ruppa-sridhar
+→ linkedin  linkedin.com/in/vishnu-kumar-rs
 → github    github.com/vishnu-ing
 ```
 
-<sub>Open to full stack, microservices and cloud engineering conversations.</sub>
+<sub>Open to AI Software Engineer roles: LLM-powered products, agents and RAG, backed by full-stack depth.</sub>
 
 </div>
