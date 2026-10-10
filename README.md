@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:064E3B&height=180&section=header&text=VISHNU%20KUMAR&fontSize=52&fontColor=A7F3D0&fontAlignY=48&fontAlign=25&desc=AI%20software%20engineer%20%E2%80%A2%20LLM%20apps%20%E2%80%A2%20full%20stack%20%E2%80%A2%20AWS&descSize=16&descAlignY=72&descAlign=25" width="100%" alt="VISHNU KUMAR — AI software engineer · LLM apps · full stack · AWS">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,100:064E3B&height=180&section=header&text=VISHNU%20KUMAR&fontSize=52&fontColor=A7F3D0&fontAlignY=48&fontAlign=25&desc=AI%20software%20engineer%20%E2%80%A2%20LLM%20apps%20%E2%80%A2%20full%20stack%20%E2%80%A2%20AWS&descSize=16&descAlignY=72&descAlign=25" width="100%" alt="VISHNU KUMAR — AI software engineer · LLM apps · Full Stack · AWS">
 
 ```bash
 $ whoami
@@ -6,13 +6,13 @@ $ whoami
 
 ```yaml
 name:        Vishnu Kumar Ruppa Sridhar
-role:        AI Software Engineer · building LLM-powered products
-focus:       agents · RAG · tool calling, plus the production plumbing around them
-ai:          OpenAI · Claude · Llama · LangChain · LangGraph · prompt engineering
+role:        AI Software Engineer · Building LLM-powered products
+focus:       Agents · RAG · Tool calling, plus the production plumbing around them
+ai:          OpenAI · Claude · Llama · LangChain · LangGraph · Prompt engineering
 background:  6+ yrs full stack · React · Angular · Node.js · Java/Spring Boot · AWS
-shipped:     one codebase → 9 brands → web, Android & iOS
+shipped:     One codebase → 9 brands → Web, Android & iOS
 education:   MS Management Information Systems @ University at Buffalo (GPA 4.0)
-credentials: AWS Data Engineer – Associate · AWS Solutions Architect – Associate (expired)
+credentials: AWS Data Engineer – Associate · AWS Solutions Architect – Associate
 reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-rs · vishnukumar.me
 ```
 
@@ -491,9 +491,9 @@ flowchart LR
 ### &nbsp;❯&nbsp; Currently exploring
 
 ```text
-→ event-driven services on AWS (Lambda · EventBridge · SQS)
-→ cloud data warehousing with Snowflake alongside app backends
-→ agentic workflows with LangGraph and tool-calling LLMs
+→ Event-driven services on AWS (Lambda · EventBridge · SQS)
+→ Cloud Data Warehousing with Snowflake with server backing
+→ Agentic workflows with LangGraph and tool-calling LLMs
 → RAG over product and operational data
 ```
 
