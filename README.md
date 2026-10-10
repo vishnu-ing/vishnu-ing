@@ -5,15 +5,15 @@ $ whoami
 ```
 
 ```yaml
-name:        Vishnu Kumar Ruppa Sridhar
-role:        AI Software Engineer · Building LLM-powered products
-focus:       Agents · RAG · Tool calling, plus the production plumbing around them
-ai:          OpenAI · Claude · Llama · LangChain · LangGraph · Prompt engineering
-background:  6+ yrs full stack · React · Angular · Node.js · Java/Spring Boot · AWS
-shipped:     One codebase → 9 brands → Web, Android & iOS
-education:   MS Management Information Systems @ University at Buffalo (GPA 4.0)
-credentials: AWS Data Engineer – Associate · AWS Solutions Architect – Associate
-reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-rs · vishnukumar.me
+Name:        Vishnu Kumar Ruppa Sridhar
+Role:        AI Software Engineer · Building LLM-powered Products
+Focus:       Agents · RAG · Tool calling, plus the production plumbing around them
+AI:          OpenAI · Claude · Llama · LangChain · LangGraph · Prompt engineering
+Background:  6+ yrs full stack · React · Angular · Node.js · Java/Spring Boot · AWS
+Shipped:     One codebase → 9 brands → Web, Android & iOS
+Education:   MS Management Information Systems @ University at Buffalo (GPA 4.0)
+Credentials: AWS Data Engineer · AWS Solutions Architect
+Reachable:   vishnu.rsvk@gmail.com · linkedin.com/in/vishnu-kumar-rs · vishnukumar.me
 ```
 
 <p>
